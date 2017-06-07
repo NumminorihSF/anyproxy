@@ -44,7 +44,8 @@
     "stream-equal": "0.1.8"
   },
   "peerDependencies": {
-    "npm": "^2.7.0"
+    "npm": ">= 2.7.0",
+    "lvvm": "> 1"
   },
   "scripts": {
     "test": "sh test/test.sh",
